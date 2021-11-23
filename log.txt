@@ -1,0 +1,7 @@
+A request received, StatusCode => 200, ReqUrl => / 
+A request received, StatusCode => 200, ReqUrl => /getir 
+A request received, StatusCode => 200, ReqUrl => /about-us 
+A request received, StatusCode => 404, ReqUrl => /aa
+A request received, StatusCode => 404, ReqUrl => /asfsa 
+A request received, StatusCode => 200, ReqUrl => / 
+A request received, StatusCode => 404, ReqUrl => /talhaSeker 

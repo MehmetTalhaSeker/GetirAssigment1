@@ -1,0 +1,24 @@
+{
+  "name": "getir-nodejs-bootcamp-week-2-assignment-mehmettalhaseker",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-MehmetTalhaSeker.git"
+  },
+  "author": "Mehmet Talha Şeker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-MehmetTalhaSeker/issues"
+  },
+  "homepage": "https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-MehmetTalhaSeker#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "url": "^0.11.0"
+  }
+}
