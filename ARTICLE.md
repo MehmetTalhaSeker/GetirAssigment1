@@ -13,7 +13,7 @@ After the import http module can be used.
 
 Now we can use various functions with "req"(request) and "res"(response) keywords. These paramaters can be named at 
 one's pleasure. With switch-case statement, routes can be specified. It's just a way to do it. It's not a rule, as you
-assume.
+can assume.
 
 ***"res.writehead(200)"*** indicates that the request is success and ***"res.write("blabla")"*** provides a body.
 
