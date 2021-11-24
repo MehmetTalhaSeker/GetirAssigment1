@@ -32,7 +32,9 @@ Thanks to default keyword, http module can send ***"404(page not found)"*** as a
 determined can be reached.
 
 <h3>Creating and running the server</h3>
+
 ![img_5.png](img_5.png)  
+
 With the callback function, we've created the server. With ***"listen(8080)"*** the server started running on "8080" port.
 
 Now we can start the server using "npm start" command. But first we need to configure it on package.json.
