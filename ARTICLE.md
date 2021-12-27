@@ -1,6 +1,6 @@
 <h1>A simple App using HTTP module in NodeJS</h1>
 
-##Author: MEHMET TALHA ŞEKER
+## Author: MEHMET TALHA ŞEKER
 
 <h2>What is http module?</h2>
 It's default Nodejs module for creating basic http requests. To use this module, a import is required.  
